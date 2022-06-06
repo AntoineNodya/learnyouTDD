@@ -1,4 +1,4 @@
-- [ ] setup repo
+- [x] setup repo
 - [ ] Feature : Display a list of all Todos
 - [ ] Feature : Add a todo with any title
 - [ ] Feature : Complete a Todo

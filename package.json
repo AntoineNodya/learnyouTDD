@@ -1,0 +1,22 @@
+{
+  "name": "learnyoutdd",
+  "version": "1.0.0",
+  "description": "My own attemps at making a [TodoMVC](https://todomvc.com/) app. I'm not necessarily follow the MVC pattern, but rather designing it as I see fit. Objective is to get a review.",
+  "type": "module",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AntoineNodya/learnyouTDD.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AntoineNodya/learnyouTDD/issues"
+  },
+  "homepage": "https://github.com/AntoineNodya/learnyouTDD#readme",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
