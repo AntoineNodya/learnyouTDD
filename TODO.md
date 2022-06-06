@@ -1,0 +1,8 @@
+- [ ] setup repo
+- [ ] Feature : Display a list of all Todos
+- [ ] Feature : Add a todo with any title
+- [ ] Feature : Complete a Todo
+- [ ] Feature : "uncomplete" a Todo
+- [ ] Feature : Delete a Todo
+- [ ] Feature : Display a list of active Todos
+- [ ] Feature : Display a list of completed Todos
