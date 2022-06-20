@@ -1,1 +1,0 @@
-- comment reutiliser la logique metier pour une autre app ?
